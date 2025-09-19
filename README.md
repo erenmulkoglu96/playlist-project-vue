@@ -1,4 +1,4 @@
-### Playlist Application – Vue.js & Firebase
+## Playlist Application – Vue.js & Firebase
 
 Vue.js tabanlı playlist uygulaması. Firebase Authentication ile kullanıcı giriş/çıkışı, Firestore ve Storage entegrasyonu ile veri saklama gerçekleştirildi. Vuex kullanılarak global state yönetimi sağlandı. Form validasyonları, conditional rendering ve route guard yapıları uygulandı. Playlist oluşturma, güncelleme, silme ve şarkı ekleme gibi işlemler gerçek zamanlı olarak yönetildi.
 
@@ -7,7 +7,7 @@ Vue.js tabanlı playlist uygulaması. Firebase Authentication ile kullanıcı gi
 Bu projede amaç, Vue.js ekosistemi ve Firebase servisleri ile modern front-end geliştirme pratiklerini öğrenmek ve uygulamaktır.
 
 
-## Bu Uygulamayla Kullanıcılar: 
+### Bu Uygulamayla Kullanıcılar: 
 
 - Playlist oluşturabilir, düzenleyebilir ve silebilir,
 
@@ -21,7 +21,7 @@ Bu projede amaç, Vue.js ekosistemi ve Firebase servisleri ile modern front-end 
 
 - Gerçek zamanlı veri güncellemelerini takip edebilir.
 
-## Kullanılan Teknolojiler:
+### Kullanılan Teknolojiler:
 
 
 - Vue.js
