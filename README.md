@@ -11,7 +11,7 @@ Bu projede amaç, Vue.js ekosistemi ve Firebase servisleri ile modern front-end 
 
 - Playlist oluşturabilir, düzenleyebilir ve silebilir,
 
--Firebase Authentication ile giriş/çıkış yapabilir,
+- Firebase Authentication ile giriş/çıkış yapabilir,
 
 - Firebase Firestore & Storage kullanarak verilerini saklayabilir,
 
