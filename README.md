@@ -1,5 +1,22 @@
 ## Playlist Application – Vue.js & Firebase
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c22335e-785a-453a-8194-60a33fd45d91" width="400" />
+  <img src="https://github.com/user-attachments/assets/e5743a96-6cef-4995-be8f-2f9b65db1db1" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dd59630c-2ef2-49dd-b549-dc4fb458084f" width="400" />
+  <img src="https://github.com/user-attachments/assets/3cca35d4-fc03-4302-921c-41164619b429" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/da71244e-8928-41c9-b05c-465a3951e788" width="400" />
+</p>
+
+
+
 <img width="1553" height="738" alt="image" src="https://github.com/user-attachments/assets/7c22335e-785a-453a-8194-60a33fd45d91" />
 <img width="1437" height="655" alt="image" src="https://github.com/user-attachments/assets/e5743a96-6cef-4995-be8f-2f9b65db1db1" />
 <img width="1359" height="573" alt="image" src="https://github.com/user-attachments/assets/dd59630c-2ef2-49dd-b549-dc4fb458084f" />
