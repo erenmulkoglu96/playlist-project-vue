@@ -1,4 +1,4 @@
-<p align="center"> ## Playlist Application – Vue.js & Firebase</p>
+## <p align="center"> Playlist Application – Vue.js & Firebase</p>
 
 
 
